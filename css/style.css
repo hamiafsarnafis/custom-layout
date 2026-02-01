@@ -1,4 +1,4 @@
-.header, .hero, .body{
+.header, .hero, .body, .bar, .footer{
     background-color: teal;
     margin: 10px;
 }
